@@ -5,6 +5,6 @@ simple html and css is used to under how to navigate through them.
 
 # Some templates related to the project
 
-![Screenshot 2022-09-16 at 00 12 06](https://user-images.githubusercontent.com/46001681/190485210-7517f531-e9bc-4e8a-985e-a63f162e241c.jpg)
-![Screenshot 2022-09-16 at 00 12 11](https://user-images.githubusercontent.com/46001681/190485220-74e5b0ff-bda3-4be1-8487-f26560c568e9.jpg)
-![Screenshot 2022-09-16 at 00 12 16](https://user-images.githubusercontent.com/46001681/190485227-070fb057-46d8-446d-9670-5b4821a075d5.jpg)
+![Index_page](https://user-images.githubusercontent.com/46001681/190486845-2923e39b-84c2-41ce-82eb-4db0e3c023ad.jpg)
+![Register_page](https://user-images.githubusercontent.com/46001681/190486850-cf110d6f-c314-4ec3-8230-4b72ba5a9566.jpg)
+![Login_page](https://user-images.githubusercontent.com/46001681/190486862-e72c915e-336a-4f65-9fb4-31d63c1bf43c.jpg)
