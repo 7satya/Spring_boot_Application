@@ -54,6 +54,9 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<finalName>
+			simple-form
+		</finalName>
 	</build>
 
 </project>
